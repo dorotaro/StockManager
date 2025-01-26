@@ -1,0 +1,17 @@
+C:\repos\StockManager\StockManagerWithAI\bin\Debug\net4.5\StockManagerWithAI.exe.config
+C:\repos\StockManager\StockManagerWithAI\bin\Debug\net4.5\StockManagerWithAI.exe
+C:\repos\StockManager\StockManagerWithAI\bin\Debug\net4.5\StockManagerWithAI.pdb
+C:\repos\StockManager\StockManagerWithAI\bin\Debug\net4.5\EntityFramework.SqlServer.dll
+C:\repos\StockManager\StockManagerWithAI\bin\Debug\net4.5\EntityFramework.dll
+C:\repos\StockManager\StockManagerWithAI\bin\Debug\net4.5\System.Data.SQLite.dll
+C:\repos\StockManager\StockManagerWithAI\bin\Debug\net4.5\System.Data.SQLite.EF6.dll
+C:\repos\StockManager\StockManagerWithAI\bin\Debug\net4.5\System.Data.SQLite.Linq.dll
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.csproj.AssemblyReference.cache
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.csproj.SuggestedBindingRedirects.cache
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.AssemblyInfoInputs.cache
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.AssemblyInfo.cs
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.csproj.CoreCompileInputs.cache
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.csproj.CopyComplete
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.exe
+C:\repos\StockManager\StockManagerWithAI\obj\Debug\net4.5\StockManagerWithAI.pdb

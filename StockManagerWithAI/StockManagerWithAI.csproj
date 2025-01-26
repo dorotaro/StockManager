@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net4.5</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>11</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+      <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Net.Http"> 
+        <!-- TODO make sure this assembly is in place and referenced on Your local machine-->
+        <HintPath>\.nuget\packages\microsoft.netframework.referenceassemblies.net45\1.0.3\build\.NETFramework\v4.5\System.Net.Http.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockManager", "StockManager\StockManager.csproj", "{8147091A-CB29-4D15-B583-3EBBB2F25E7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{A83D4FDD-4919-45DB-A913-CB93DF2887FA}"
+	ProjectSection(SolutionItems) = preProject
+		TaskDescription.md = TaskDescription.md
+		README_ResultDescription.md = README_ResultDescription.md
+		Stocks.db = Stocks.db
+		Stocks2.db = Stocks2.db
+		Stocks3.db = Stocks3.db
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockManagerWithAI", "StockManagerWithAI\StockManagerWithAI.csproj", "{01B64D8E-031B-4AE9-8A71-F70CF846D6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8147091A-CB29-4D15-B583-3EBBB2F25E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8147091A-CB29-4D15-B583-3EBBB2F25E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8147091A-CB29-4D15-B583-3EBBB2F25E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8147091A-CB29-4D15-B583-3EBBB2F25E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B64D8E-031B-4AE9-8A71-F70CF846D6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B64D8E-031B-4AE9-8A71-F70CF846D6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B64D8E-031B-4AE9-8A71-F70CF846D6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B64D8E-031B-4AE9-8A71-F70CF846D6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

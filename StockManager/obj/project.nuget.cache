@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OAN5IZSl0U9uluikFlfFO7So5qx/ZiGg2qQQH0m+pPGQps3eiiUq0mHc9HGqpKhYkNYBXPsNy3I5yMiCl8SHUA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\StockManager\\StockManager\\StockManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skura\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\skura\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\skura\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
+    "C:\\Users\\skura\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.119\\stub.system.data.sqlite.core.netframework.1.0.119.nupkg.sha512",
+    "C:\\Users\\skura\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\skura\\.nuget\\packages\\system.data.sqlite\\1.0.119\\system.data.sqlite.1.0.119.nupkg.sha512",
+    "C:\\Users\\skura\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\skura\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.119\\system.data.sqlite.ef6.1.0.119.nupkg.sha512",
+    "C:\\Users\\skura\\.nuget\\packages\\system.data.sqlite.linq\\1.0.119\\system.data.sqlite.linq.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

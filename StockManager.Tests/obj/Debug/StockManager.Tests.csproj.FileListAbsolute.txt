@@ -1,0 +1,17 @@
+C:\repos\StockManager\StockManager.Tests\bin\Debug\StockManager.Tests.dll
+C:\repos\StockManager\StockManager.Tests\bin\Debug\StockManager.Tests.pdb
+C:\repos\StockManager\StockManager.Tests\bin\Debug\Castle.Core.dll
+C:\repos\StockManager\StockManager.Tests\bin\Debug\Moq.dll
+C:\repos\StockManager\StockManager.Tests\bin\Debug\nunit.framework.dll
+C:\repos\StockManager\StockManager.Tests\bin\Debug\StockManagerWithAI.exe
+C:\repos\StockManager\StockManager.Tests\bin\Debug\System.Data.SQLite.dll
+C:\repos\StockManager\StockManager.Tests\bin\Debug\StockManagerWithAI.pdb
+C:\repos\StockManager\StockManager.Tests\bin\Debug\StockManagerWithAI.exe.config
+C:\repos\StockManager\StockManager.Tests\bin\Debug\Moq.pdb
+C:\repos\StockManager\StockManager.Tests\bin\Debug\Moq.xml
+C:\repos\StockManager\StockManager.Tests\bin\Debug\nunit.framework.xml
+C:\repos\StockManager\StockManager.Tests\obj\Debug\StockManager.Tests.csproj.AssemblyReference.cache
+C:\repos\StockManager\StockManager.Tests\obj\Debug\StockManager.Tests.csproj.CoreCompileInputs.cache
+C:\repos\StockManager\StockManager.Tests\obj\Debug\StockManager.Tests.csproj.CopyComplete
+C:\repos\StockManager\StockManager.Tests\obj\Debug\StockManager.Tests.dll
+C:\repos\StockManager\StockManager.Tests\obj\Debug\StockManager.Tests.pdb
