@@ -1,5 +1,9 @@
 ## STOCK MANAGEMENT APP
 
+### Prerequisites
+- .NET Framework 4.5
+- .NET 7 SDK (C#11 is used), download [here](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+
 ### Running the app
 1. Select the appropriate Run/Debug Configuration - `StockManager.csproj` or `StockManagerWithAI.csproj`
 2. Make sure the app builds and no dependencies missing
